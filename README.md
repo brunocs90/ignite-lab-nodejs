@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span>Ignite LAB - NODEJS</span>
+  <span>Ignite LAB - NodeJs</span>
 </h1>
 
 <p align="center">
@@ -26,24 +26,9 @@ Aplicação desenvolvida durante o Ignite Lab promovido pela Rocketseat. Objetiv
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<table>
-  <tbody>
-    <tr>
-      <td style="font-weight: bold">Server</td>
-      <td>
-        <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">NodeJs</a>
-        e
-        <a href="https://www.prisma.io/" target="_blank" rel="noopener noreferrer">Prisma</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="font-weight: bold">Web</td>
-      <td>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">TypeScript</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+- NodeJs
+- Prisma
+- Nest
 
 ## 📥 Instalação
 
